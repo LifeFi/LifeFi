@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @LifeFi
-- 👀 I’m interested in Supersizing Human mind. 
-- 🌱 I’m currently learning No-Code Tools
-- 💞️ I’m looking to collaborate on Side Projects
-- 📫 How to reach me at topcircle@gmail.com
+- Hi, I’m @LifeFi
+- I’m interested in Supersizing Human mind. 
+- https://www.lifefi.xyz/blog
+- topcircle@gmail.com
 
 <!---
-LifeFi/LifeFi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+여기 넣은 주석은 보이지 않는군
 --->
