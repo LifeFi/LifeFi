@@ -3,10 +3,8 @@
 - https://www.lifefi.xyz/blog
 - topcircle@gmail.com
 
+&nbsp;&nbsp;&nbsp; 
   
-  
-
-
   [![Hits](https://hits.sh/github.com/LifeFi.svg?view=today-total&style=flat-square&label=VISITORS&labelColor=44cc11)](https://hits.sh/github.com/LifeFi/)
 
 <!---
