@@ -5,7 +5,7 @@
 - ReactJS, NextJS, Flutter, Python
 
 ### Link
-- https://www.pinflyapps.xyz/blog
+- https://www.pinflyapps.com/blog
 - topcircle@gmail.com
 
 <br/><br/>
